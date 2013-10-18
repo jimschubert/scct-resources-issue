@@ -1,0 +1,5 @@
+# SCCT Issue with test resources
+
+This is a project to demonstrate scct default settings has an issue with test resources.
+
+Optional workaround with scctSettings in ./project/ScctResourcesIssueBuild.scala
